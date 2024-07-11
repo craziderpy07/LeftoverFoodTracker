@@ -2,6 +2,6 @@
 
 Welcome to the Leftover Food Tracker project! 
 
-This project is intended to give you the opportunity to practice the concepts that your learned in CPSC 121.
+This project was created in my CPSC 121 class to track a user's leftovers and provide a strategy to reduce leftovers.
 
 See the [Project Guide](http://tiny.cc/CPSC121A-ProjectGuide) for detailed instructions.
